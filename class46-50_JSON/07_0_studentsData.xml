@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<students>
+    <name>Anisul Islam</name>
+    <middleName> null </middleName>
+    <age> 31 </age>
+    <cgpa> 3.44 </cgpa>
+    <isRegistered> true </isRegistered>
+    <languages> Bengali </languages>
+    <languages> English </languages>
+    <languages> Hindi </languages>
+    <friends>
+        <name> Anar </name>
+        <age> 25 </age>
+    </friends>
+    <friends>
+        <name> Ruhul </name>
+        <age> 28 </age>
+    </friends>
+</students>
+<students>
+    <name>Rabeya Begum</name>
+    <middleName> null </middleName>
+    <age> 30 </age>
+    <cgpa> 3.92 </cgpa>
+    <isRegistered> false </isRegistered>
+    <languages> Bengali </languages>
+    <languages> English </languages>
+    <languages> Hindi </languages>
+    <languages> Finnish </languages>
+    <friends>
+        <name> Shakila </name>
+        <age> 24 </age>
+    </friends>
+    <friends>
+        <name> Jhumur </name>
+        <age> 26 </age>
+    </friends>
+</students>
